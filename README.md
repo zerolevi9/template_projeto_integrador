@@ -8,7 +8,7 @@ Integrantes do grupo<br>
 primeiro_componente_do_grupo:zerolevi9@gmail.com<br>
 segundo_componente_do_grupo:marcosviniciussouzadossantos@gmail.com<br>
 terceiro_componente_do_grupo:iaggodelimaa@gmail.com<br>
-...
+..
 
 ### 2.MINIMUNDO<br>
 Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
