@@ -19,10 +19,10 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 > O sistema proposto para a "Devcom Projetos conterá as informacões aqui detalhadas. Dos Projetos serão armazenados o número, nome e cidade. Dos Departamentos serão armazenados o número e nome. O cliente destacou que cada projeto pode ter vários departamentos auxiliando no seu desenvolvimento, e cada departamento pode estar envolvido em vários projetos. Os dados relativos aos empregados que serão armazenados são: rg, nome, cpf, salário, data inicial do salario e supervisor de cada empregado. É importante destacar que cada empregado pode ser supervisionado por outro empregado, e obrigatoriamente deve estar alocado a um único departamento, mas pode gerenciar vários departamentos ou não gerenciar nenhum. Um empregado também pode participar de vários projetos, caso seja necessário, mas não precisa obrigatoriamente estar alocado em algum projeto. Com relação aos dependentes serão armazenadas as informações de nome do dependente, data de nascimento, sexo e grau de parentesco. Cada empregado pode ter vários dependentes, mas um dependente esta associado apenas a um único empregado. Com relação ao histórico de salário devemos armazenar as informações de valor do salário, data de início do salário no período e data final do salário no período. É importante lembrar que cada funcionario pode ter diversos eventos de histórico de salário associados a ele visto que este dado pode ser alterado várias vezes..
  
 
-### 3.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
+### 3.PMC<br>
 
-![Alt text](https://github.com/zerolevi9/template_projeto_integrador/blob/main/telas.png?raw=true "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para o Projeto Autumn](https://github.com/zerolevi9/template_projeto_integrador/blob/18c60b98987f2869147cdd2d2e5f1364e2b98e0c/ProjetoAutumn.pdf "Projeto Autumn")
+ ![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/zerolevi9/template_projeto_integrador/blob/a3d047e4a9e8a1bbce0b978babae13948201f642/PMCAlterado-LeviMonteiroIaggoRautaMarcosVinicius.pdf "PMC")
+ a) inclusão do PMC desenvolvido pelo grupo
 
 
 #### 3.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
@@ -48,10 +48,11 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
  
  
 
- ### 5.PMC<br>
- ![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/zerolevi9/template_projeto_integrador/blob/a3d047e4a9e8a1bbce0b978babae13948201f642/PMCAlterado-LeviMonteiroIaggoRautaMarcosVinicius.pdf "PMC")
- a) inclusão do PMC desenvolvido pelo grupo
- 
+ ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
+
+![Alt text](https://github.com/zerolevi9/template_projeto_integrador/blob/main/telas.png?raw=true "Title")
+![Arquivo PDF do Protótipo Balsamiq feito para o Projeto Autumn](https://github.com/zerolevi9/template_projeto_integrador/blob/18c60b98987f2869147cdd2d2e5f1364e2b98e0c/ProjetoAutumn.pdf "Projeto Autumn")
+
  
  ### 6.MODELO CONCEITUAL<br>
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
