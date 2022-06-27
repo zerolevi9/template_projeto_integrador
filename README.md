@@ -23,7 +23,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 
 
 
-![Alt text](https://balsamiq.cloud/s4xxgky/pqbd9ai "Title")
+![Alt text](https://github.com/zerolevi9/template_projeto_integrador/blob/main/telas.png?raw=true "Title")
 ![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://balsamiq.cloud/s4xxgky/pqbd9ai "Projeto Autumn")
 
 
