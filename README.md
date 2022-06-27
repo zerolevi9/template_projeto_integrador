@@ -1,12 +1,13 @@
 # TRABALHO DE PI:  Título do Trabalho
-Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
+Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
 
 # Sumário
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-primeiro_componente_do_grupo:email_primeiro_componente@dominio.com<br>
-segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
+primeiro_componente_do_grupo:zerolevi9@gmail.com<br>
+segundo_componente_do_grupo:marcosviniciussouzadossantos@gmail.com<br>
+terceiro_componente_do_grupo:iaggodelimaa@gmail.com<br>
 ...
 
 ### 2.MINIMUNDO<br>
@@ -19,11 +20,10 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
  
 
 ### 3.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
 
-![Alt text](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/balsamiq.png?raw=true "Title")
+
+![Alt text](https://balsamiq.cloud/s4xxgky/pqbd9ai "Title")
 ![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/EmpresaDevcom.pdf?raw=true "Empresa Devcom")
 
 
