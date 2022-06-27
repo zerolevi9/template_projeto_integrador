@@ -24,7 +24,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 
 
 ![Alt text](https://balsamiq.cloud/s4xxgky/pqbd9ai "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/EmpresaDevcom.pdf?raw=true "Empresa Devcom")
+![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://balsamiq.cloud/s4xxgky/pqbd9ai "Projeto Autumn")
 
 
 #### 3.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
